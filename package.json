@@ -10,8 +10,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@mycelial/nodejs": "^0.2.10-canary.0",
-    "@mycelial/v0": "^0.2.10-canary.0",
-    "@mycelial/websocket": "^0.2.10-canary.0"
+    "@mycelial/nodejs": "^0.2.10",
+    "@mycelial/v0": "^0.2.10",
+    "@mycelial/web": "^0.2.10",
+    "@mycelial/websocket": "^0.2.10"
   }
 }
